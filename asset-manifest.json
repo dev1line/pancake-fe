@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.js": "/pancake-fe/static/js/main.6dccdaad.chunk.js",
+    "main.js.map": "/pancake-fe/static/js/main.6dccdaad.chunk.js.map",
+    "runtime-main.js": "/pancake-fe/static/js/runtime-main.e4c8e2e7.js",
+    "runtime-main.js.map": "/pancake-fe/static/js/runtime-main.e4c8e2e7.js.map",
+    "static/js/2.6cd1ad23.chunk.js": "/pancake-fe/static/js/2.6cd1ad23.chunk.js",
+    "static/js/2.6cd1ad23.chunk.js.map": "/pancake-fe/static/js/2.6cd1ad23.chunk.js.map",
+    "static/js/3.d4a8933e.chunk.js": "/pancake-fe/static/js/3.d4a8933e.chunk.js",
+    "static/js/3.d4a8933e.chunk.js.map": "/pancake-fe/static/js/3.d4a8933e.chunk.js.map",
+    "static/css/4.b4efd793.chunk.css": "/pancake-fe/static/css/4.b4efd793.chunk.css",
+    "static/js/4.2154898b.chunk.js": "/pancake-fe/static/js/4.2154898b.chunk.js",
+    "static/js/4.2154898b.chunk.js.map": "/pancake-fe/static/js/4.2154898b.chunk.js.map",
+    "static/js/5.4e4f5a81.chunk.js": "/pancake-fe/static/js/5.4e4f5a81.chunk.js",
+    "static/js/5.4e4f5a81.chunk.js.map": "/pancake-fe/static/js/5.4e4f5a81.chunk.js.map",
+    "static/js/6.5b29f59c.chunk.js": "/pancake-fe/static/js/6.5b29f59c.chunk.js",
+    "static/js/6.5b29f59c.chunk.js.map": "/pancake-fe/static/js/6.5b29f59c.chunk.js.map",
+    "static/js/7.4bc42823.chunk.js": "/pancake-fe/static/js/7.4bc42823.chunk.js",
+    "static/js/7.4bc42823.chunk.js.map": "/pancake-fe/static/js/7.4bc42823.chunk.js.map",
+    "index.html": "/pancake-fe/index.html",
+    "precache-manifest.14a8ff20c0cfc0fba12db6ec224707a9.js": "/pancake-fe/precache-manifest.14a8ff20c0cfc0fba12db6ec224707a9.js",
+    "service-worker.js": "/pancake-fe/service-worker.js",
+    "static/css/4.b4efd793.chunk.css.map": "/pancake-fe/static/css/4.b4efd793.chunk.css.map",
+    "static/js/2.6cd1ad23.chunk.js.LICENSE.txt": "/pancake-fe/static/js/2.6cd1ad23.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4c8e2e7.js",
+    "static/js/2.6cd1ad23.chunk.js",
+    "static/js/main.6dccdaad.chunk.js"
+  ]
+}
