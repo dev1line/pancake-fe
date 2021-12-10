@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/pancake-fe/static/js/main.9fe60399.chunk.js",
-    "main.js.map": "/pancake-fe/static/js/main.9fe60399.chunk.js.map",
+    "main.js": "/pancake-fe/static/js/main.df996431.chunk.js",
+    "main.js.map": "/pancake-fe/static/js/main.df996431.chunk.js.map",
     "runtime-main.js": "/pancake-fe/static/js/runtime-main.5e1c3c78.js",
     "runtime-main.js.map": "/pancake-fe/static/js/runtime-main.5e1c3c78.js.map",
     "static/js/2.51fc3253.chunk.js": "/pancake-fe/static/js/2.51fc3253.chunk.js",
@@ -18,7 +18,7 @@
     "static/js/7.4bc42823.chunk.js": "/pancake-fe/static/js/7.4bc42823.chunk.js",
     "static/js/7.4bc42823.chunk.js.map": "/pancake-fe/static/js/7.4bc42823.chunk.js.map",
     "index.html": "/pancake-fe/index.html",
-    "precache-manifest.bb0d3ca9811f7a1cdd2465c7b869663f.js": "/pancake-fe/precache-manifest.bb0d3ca9811f7a1cdd2465c7b869663f.js",
+    "precache-manifest.33348c7dbed672d5c08012373c7fc3c1.js": "/pancake-fe/precache-manifest.33348c7dbed672d5c08012373c7fc3c1.js",
     "service-worker.js": "/pancake-fe/service-worker.js",
     "static/css/4.b4efd793.chunk.css.map": "/pancake-fe/static/css/4.b4efd793.chunk.css.map",
     "static/js/2.51fc3253.chunk.js.LICENSE.txt": "/pancake-fe/static/js/2.51fc3253.chunk.js.LICENSE.txt"
@@ -26,6 +26,6 @@
   "entrypoints": [
     "static/js/runtime-main.5e1c3c78.js",
     "static/js/2.51fc3253.chunk.js",
-    "static/js/main.9fe60399.chunk.js"
+    "static/js/main.df996431.chunk.js"
   ]
 }
