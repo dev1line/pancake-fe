@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/pancake-fe/precache-manifest.be965987804791b753aeef997d0ff418.js"
+  "/pancake-fe/precache-manifest.b0c1dc251b8965c913ce4b4373222d0a.js"
 );
 
 self.addEventListener('message', (event) => {

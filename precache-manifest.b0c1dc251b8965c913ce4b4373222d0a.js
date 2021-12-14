@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cb3a078856007df81a6ce20c21514283",
+    "revision": "2f3125749a662fdba0d8222b11f2d5c2",
     "url": "/pancake-fe/index.html"
   },
   {
@@ -36,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pancake-fe/static/js/7.ad787b98.chunk.js"
   },
   {
-    "revision": "5f5dcc0378cb1cafb435",
-    "url": "/pancake-fe/static/js/main.664465a4.chunk.js"
+    "revision": "d259ca0a3e816179cd79",
+    "url": "/pancake-fe/static/js/main.c628d3b4.chunk.js"
   },
   {
     "revision": "afe36211bc5a58510c78",
